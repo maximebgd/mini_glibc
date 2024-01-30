@@ -1,0 +1,1 @@
+Je suis le texte qui test la fonction mini_cp !

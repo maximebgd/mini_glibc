@@ -1,0 +1,5 @@
+1Salut      je suis Maxime           BEGOUD
+             2Salut     je     suis       Maxime     BEGOUD
+3Salut      je       suis         Maxime     BEGOUUD
+     4Salut      je suis Maxime          BEGOUD
+5Salut      je suis         Maxime        BEGOUUD

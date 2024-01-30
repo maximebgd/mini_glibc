@@ -1,0 +1,1 @@
+Bonjour! Je suis le texte qui test mini_fread() !

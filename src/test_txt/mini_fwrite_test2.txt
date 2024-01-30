@@ -1,0 +1,1 @@
+Est-ce que je suis flush quand mini_close seulement est appelé ?
