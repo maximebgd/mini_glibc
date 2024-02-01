@@ -505,6 +505,9 @@ int main(int argc, char **argv) {
     // Test du mini_shell 
     mini_shell();
 
+    printf("...");
+    printf("zkcnzc");
+
     mini_exit();
     return 0;
 }
