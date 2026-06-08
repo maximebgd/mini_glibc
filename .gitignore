@@ -1,0 +1,30 @@
+# Build artifacts
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+src/mon_exe
+
+# Debug
+*.dSYM/
+*.gch
+*.gcno
+*.gcda
+*.gcov
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Éditeurs
+.vscode/
+src/.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
